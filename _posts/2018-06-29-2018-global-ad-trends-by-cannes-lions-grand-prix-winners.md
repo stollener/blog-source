@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "칸 광고제 그랑프리 수상작으로 보는 \n 2018 해외 광고 트렌드"
+title:  "칸 광고제 그랑프리 수상작으로 보는 2018 해외 광고 트렌드"
 categories: Advertising
 description: 2018년 Cannes Lions Grand Prix Winners를 소개. 타이드, 버드와이저, P&G 등의 광고 사례.
 ---
