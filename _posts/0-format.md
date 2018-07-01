@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "코딩 "
+title: ""
 categories: Coding
-description: temp
+description: 
 ---
