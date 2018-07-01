@@ -11,7 +11,7 @@ description: 2018년 Cannes Lions Grand Prix Winners를 소개. 타이드, 버�
 
 예를 들어, 작년 2017년 칸 광고제는 광고회사 McCann New York 에서 진행한 Fearless Girl 캠페인이 4개 부문에서 그랑프리를 수상했습니다. (한국어로 '두려워하지 않는 소녀상' 정도가 되겠네요.) 월스트리트 가를 대표하는 상징물인 황소 동상과 마주보는 곳에, 겁내지 않고 당당히 서있는 소녀의 동상을 세운 것이 그 캠페인의 내용입니다. 작년 칸 광고제를 휩쓸었다고 볼 수 있는데요, 이를 통해 2017년 즈음에 성평등에 대한 의미있는 문화적 흐름이 있었다고 볼 수 있습니다. 최소한 미국 사회에서는요.
 
-![Fearless Girl](/images/fearless-girl.jpg)*Image source: Adweek*
+![Fearless Girl]({{site.url}}/images/fearless-girl.jpg)*Image source: Adweek*
 
 2018년 6월 18일 ~ 22일까지 진행된 칸 광고제에는 수많은 광고들이 출품되었지만, 그 중에도 "그랑프리(Grand Prix)" 대상을 받는 영광을 누린 광고는 각 카테고리별로 보통 1개씩 약 30여 개에 불과합니다. 이 글에서는 그랑프리 수상작들을 통해서 작년 하반기부터 현재까지 어떤 사회적 트렌드가 있는지 알아 보고자 합니다. 크게 세 가지 트렌드로 분류해서 대표적인 광고들을 소개드립니다.  
 
@@ -27,7 +27,7 @@ description: 2018년 Cannes Lions Grand Prix Winners를 소개. 타이드, 버�
 
 ### It's a Tide ad (타이드)
 
-![Tide Ad](/images/tide-ad.jpg)*Image source: Adweek*
+![Tide Ad]({{site.url}}/images/tide-ad.jpg)*Image source: Adweek*
 
 타이드(Tide)라는 세탁 세제 아시죠? 한국에서는 존재감이 크지 않지만, 미국에서는 아주 잘 팔리는 세제 중 하나입니다. 마케팅을 그렇게 잘 한다고 소문이 난 P&G(Protcter & Gamble)에서 판매하는 제품이죠. 그 제품 광고를 미국 최대의 TV 광고 쇼가 펼쳐지는 슈퍼볼(미국 미식축구 파이널) 경기 광고로 내보냈고 한동안 광고계를 떠들썩하게 했습니다.
 
@@ -41,7 +41,7 @@ description: 2018년 Cannes Lions Grand Prix Winners를 소개. 타이드, 버�
 
 ### Budweiser: Tagwords (버드와이저)
 
-![Budweiser - Tagwords](/images/budweiser-tagwords.jpg)*Image source: Adweek*
+![Budweiser - Tagwords]({{site.url}}/images/budweiser-tagwords.jpg)*Image source: Adweek*
 
 실제 광고 효과가 어땠을지는 모르겠습니다만, 아이디어가 기발합니다. 프린트 및 옥외 광고인데요, 광고 모델로 썼으면 너무나 돈이 많이 들었을 뮤지션들을 공짜로 활용하는 방법을 보여줍니다. 구글 검색을 이용해서요.
 
@@ -61,7 +61,7 @@ description: 2018년 Cannes Lions Grand Prix Winners를 소개. 타이드, 버�
 
 ### P&G: The Talk (P&G 브랜드 광고)
 
-![P&G - The Talk](/images/the-talk.jpg)*Image source: Business Wire*
+![P&G - The Talk]({{site.url}}/images/the-talk.jpg)*Image source: Business Wire*
 
 앞에 소개해드린 타이드 광고도 P&G의 제품이었지만, 이 "The Talk"라는 영상은 P&G의 브랜드 광고입니다. 직접적으로 특정 제품을 팔기 위한 광고라기보다는 브랜드의 정체성과 이미지를 알리기 위한 홍보 컨텐츠입니다.
 
