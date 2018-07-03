@@ -23,7 +23,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Stollener's Blog on coding, marketing, tech, advertising, and others.
   슈톨레너의 블로그입니다. 코딩, 마케팅, IT, 광고 등의 주제를 다룹니다.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://stollener.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://stollener.com # the base hostname & protocol for your site, e.g. http://example.com
+enforce_ssl: stollener.com
 twitter_username: stollener
 github_username:  stollener
 g-analytics: UA-121414696-1

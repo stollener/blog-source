@@ -3,43 +3,43 @@
 
     
     <url>
-        <loc>http://stollener.com/404/</loc>
-        <lastmod>2018-07-02</lastmod>
+        <loc>https://stollener.com/404/</loc>
+        <lastmod>2018-07-03</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>http://stollener.com/about/</loc>
-        <lastmod>2018-07-02</lastmod>
+        <loc>https://stollener.com/about/</loc>
+        <lastmod>2018-07-03</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>http://stollener.com/</loc>
-        <lastmod>2018-07-02</lastmod>
+        <loc>https://stollener.com/</loc>
+        <lastmod>2018-07-03</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>http://stollener.com/sitemap.xml</loc>
-        <lastmod>2018-07-02</lastmod>
+        <loc>https://stollener.com/sitemap.xml</loc>
+        <lastmod>2018-07-03</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>http://stollener.com/assets/main.css</loc>
-        <lastmod>2018-07-02</lastmod>
+        <loc>https://stollener.com/assets/main.css</loc>
+        <lastmod>2018-07-03</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>http://stollener.com/feed.xml</loc>
-        <lastmod>2018-07-02</lastmod>
+        <loc>https://stollener.com/feed.xml</loc>
+        <lastmod>2018-07-03</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
@@ -47,15 +47,15 @@
 
     
     <url>
-        <loc>http://stollener.com/blog/be-a-programmer-without-procrastination/</loc>
-        <lastmod>2018-07-02</lastmod>
+        <loc>https://stollener.com/blog/be-a-programmer-without-procrastination/</loc>
+        <lastmod>2018-07-03</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>http://stollener.com/blog/2018-global-ad-trends-by-cannes-lions-grand-prix-winners/</loc>
-        <lastmod>2018-07-02</lastmod>
+        <loc>https://stollener.com/blog/2018-global-ad-trends-by-cannes-lions-grand-prix-winners/</loc>
+        <lastmod>2018-07-03</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
